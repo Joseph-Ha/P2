@@ -25,11 +25,22 @@ header nav {
   float: right;
   width: 285px;
 }
+.h1 {font-size: xx-large;
+
+
+}
+.h2 {
+  font-size: x-large;
+}
+.p{
+  font-size:large;
+}
 
 main {
   background: white;
   overflow: auto;
 }
+
 
 main .left {
   float: left;
